@@ -2,8 +2,13 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
+
 Fortunately, he was agile and was able to keep his balance.
 
 Unfortunately, there was a pile of cow dung and he stepped on it.
+
+Fortunately, Jill has cat-like reflexes and saves Jack from falling.
+
+Unfortunately, a cat came out of nowhere and attacked Jack.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
