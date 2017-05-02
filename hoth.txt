@@ -2,8 +2,9 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
+Fortunately, Jack didn't fall.
+
+Unfortunately, he lost the bucket.
+
 Fortunately, not a drop of water was spilled, and the village was saved.
 
-Unfortunately, Jill twist his ankle when he looks back.
-
-Fortunately, Jack is able to carry his back.
