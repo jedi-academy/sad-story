@@ -2,12 +2,20 @@
 
 Unfortunately, Jack tripped over a root.
 
+Fortunately, Jill stepped away from him and did not fall with him.
+
+Unfortunately, Jack broke his right arm.
+
 Fortunately, Jill noticed and yelled out for help.
 
 Unfortunately, Jack didn’t hear her in time.
 
+<<<<<<< HEAD
 Fortunately, Jack caught himself over the root and look up.
 
 Unfortunately, once Jack looked up he saw something dreadful.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
+=======
+Fortunately, not a drop of water was spilled, and the village was saved.
+>>>>>>> refs/remotes/jedi-academy/develop
