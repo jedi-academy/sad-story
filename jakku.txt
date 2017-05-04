@@ -17,10 +17,17 @@ Fortunately, Jill used the Force to lift the pail.
 Unfortunately, the rogues of Jakku attacked.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fortunately, like all villains, the rogues had terrible aim.
 
 Unfortunately, they attacked with their fists.
 =======
+=======
+Fortunately, the rouges were nice enough not to spill the water.
+
+Unfortunately, the pail flew out of Jill's hand and disappeared.
+
+>>>>>>> 14ad0fb28efc890b4da50d42fd36ccb8aaebec2a
 Fortunately, the rouges were nice enough not to spill the pail.
 
 Unfortunately, the pail was lost.
