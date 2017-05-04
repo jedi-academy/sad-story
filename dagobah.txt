@@ -1,4 +1,4 @@
-Jack and Jill went up the hill, to fetch a pail of water.
+﻿Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
@@ -30,6 +30,10 @@ Unforunately, Jill didn't catch the new pail.
 Fortunately, the scarlet speedster, Flash returned and caught the new pail before it dropped.
 
 Unfortunately, the Flash ran so fast and the fission he created burned Jill's clothes off.
+
+Fortunately, Flash lost his virginity.
+
+Unfortunately, Flash is a minuteman and Jill was left unsatisfied.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
