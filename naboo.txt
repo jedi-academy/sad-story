@@ -23,9 +23,15 @@ Fortunately, Amrit became a farmer techsuppport who traveled back in time to sav
 
 Unfortunately, Amrit was hit by a flying pig.
 
+<<<<<<< HEAD
 Fortunately, Amrit was only 1 person of the techsupport team, so they made sure to send Patrick with him. 
 
 Unfortunately, the timehole was closing.
+=======
+Fortunately, Jill saved Jack from another ankle incident.
+
+Unfortunately, Jack hurt his ankle again regardless.
+>>>>>>> 3a9257c17152e9a5ae2b624927c53152f83f0d87
 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
