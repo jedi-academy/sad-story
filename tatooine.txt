@@ -4,6 +4,8 @@ Fortunately, Jill has good balance and got a pail of water. She process to walk 
 
 Unfortunately, Jack fell down half way down the hill and did five front flip before he broke his arms.
 
+<<<<<<< HEAD
+=======
 Fortunately, Jill now had the higher ground.
 
 
@@ -28,6 +30,7 @@ Fortunately, Jill loved Jack like a brother.
 
 Unfortunately, Jack had already turned to the dark side.
 
+>>>>>>> 2fc10e116c1db27c62433d4bce692d933bf66445
 Fortunately, not a drop of water was spilled, and the village was saved.
 
 Unfortunately, they were in Tatooine, so there was no actual water.

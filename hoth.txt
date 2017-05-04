@@ -26,6 +26,13 @@ Fortunately, Jill has cat-like reflexes and saves Jack from falling.
 
 Unfortunately, a cat came out of nowhere and attacked Jack.
 
+<<<<<<< HEAD
+Fortunately, it turned out cat was bird.
+
+Unfortunately, the bird poked Jack.
+
+Fortunately, not a drop of water was spilled, and the village was saved.
+=======
 Fortunately, cats are too cute for their own good, and it rolled over
 on its back to have its tummy rubbed.
 
@@ -34,3 +41,4 @@ and it jumped up abd bumped Jack in an attempt to escape.
 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
+>>>>>>> 2fc10e116c1db27c62433d4bce692d933bf66445

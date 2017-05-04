@@ -2,6 +2,8 @@
 
 Unfortunately, Jack tripped over a root.
 
+<<<<<<< HEAD
+=======
 Fortunately, Jill was able to catch the pail of water.
 
 Unfortunately, Jack continued to tumble down the hill.
@@ -27,4 +29,5 @@ Fortunately, a wizard reversed time and the pail was remade full of water.
 
 Unforunately, Jill didn't catch the new pail.
 
+>>>>>>> 2fc10e116c1db27c62433d4bce692d933bf66445
 Fortunately, not a drop of water was spilled, and the village was saved.
