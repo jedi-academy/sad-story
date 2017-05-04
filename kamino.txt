@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+BLAH
+=======
 Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
@@ -16,6 +19,8 @@ Unfortunately, it is pretty cold in space and Jack is freezing.
 
 Fortunately, Scooby Doo heard the kafuffle and came running.
 
+WEEEEE
+
 Unfortunately, he slobbered so much that Jill slipped and fell on her butt.
 
 Fortunately, Jack was resuced by the Millennium Falcon before he escaped the atmosphere.
@@ -25,3 +30,4 @@ Unfortunately, Jill slid all way down the hill where a giant mud monster opened 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
 - Team Kamino
+>>>>>>> 47f97df0302639a7e9f4c830fc6f9014a2f88f06
