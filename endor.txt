@@ -1,16 +1,16 @@
 ﻿Jack and Jill went up the hill, to fetch a pail of water.
 
-Unfortunately, Jack fell down and broke his crown.
+Unfortunately, Jack fell down and broke his walking stick.
 
 Fortunately, the ground was very mushy and Jack did not get injured.
 
-Unfortunately, the mushy ground was actually a monster.
+Unfortunately, the mushy ground was actually a jar of honey.
 
 Fortunately, the monster is is a cookie monster and offered him cookies.
 
 Unfortunately, the cookies are disgusting.
 
-Fortunately, Jill came tubelling down but dinot get hurt.
+Fortunately, Jill came tubelling down but did not get hurt.
 
 Unfortunately, Jack broke his right arm.
 
@@ -21,6 +21,8 @@ Unfortunately, Jill had sore throat.
 Fortunately, Mark the doctor was there to cure Jill.
 
 Unfortunately, Jill triped on his way.
+
+Fortunately, Jill didnt die.
 
 Fortunately, Jill didnt get hurt.
 
