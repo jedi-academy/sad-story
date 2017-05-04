@@ -24,7 +24,11 @@ Fortunately, Amrit became a farmer techsuppport who traveled back in time to sav
 
 Unfortunately, Amrit was hit by a flying pig.
 
+<<<<<<< HEAD
+Fortunately, not a drop of water was spilled, and the village was saved.
+=======
 Fortunately, Jill was able to help Jack before Amrit.
+>>>>>>> develop
 
 Fortunately, Jill saved Jack from another ankle incident.
 
