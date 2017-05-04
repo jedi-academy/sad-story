@@ -1,7 +1,14 @@
 Jack and Jill went up the hill, to fetch a pail of water.
 
+Unfortunately, they were chased by a condor.
+
+Fortunately, they his behind a rock and lost the condor.
+
 Unfortunately, Jack tripped over a root.
 
+<<<<<<< HEAD
+Fortunately, not a drop of water was spilled, and the village was saved.
+=======
 Fortunately, Jill is actually a jedi and she used Force Levitate to save Jack.
 
 Unfortunately, Jill is still a trainee and used too much power and sent Jack to the stratosphere.
@@ -21,3 +28,4 @@ Unfortunately, Jill slid all way down the hill where a giant mud monster opened 
 Fortunately, not a drop of water was spilled, and the village was saved.
 
 - Team Kamino
+>>>>>>> 271da602a7029c4386dc47c56050f323b8aa10db
