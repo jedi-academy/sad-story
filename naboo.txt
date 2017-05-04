@@ -19,9 +19,6 @@ Fortunately, aliens invaded and distored gravity so that for the few seconds whi
 
 Unfortunately, he hurt his ankle.
 
-<<<<<<< HEAD
-Fortunately, not a drop of water was spilled, and the village was saved.
-=======
 Fortunately, Amrit became a farmer techsuppport who traveled back in time to save Jack ankle.
 
 Unfortunately, Amrit was hit by a flying pig.
@@ -29,7 +26,6 @@ Unfortunately, Amrit was hit by a flying pig.
 Fortunately, Jill was able to help Jack before Amrit.
 
 Fortunately, Jill saved Jack from another ankle incident.
->>>>>>> 271da602a7029c4386dc47c56050f323b8aa10db
 
 Unfortunately, Jack hurt his ankle again regardless.
 
