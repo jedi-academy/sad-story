@@ -2,6 +2,8 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack tripped over a root.
 
+Fortunately, Jill has no trobule.
+
 Unfortunately, it is a raining day.
 
 Fortunately, they bring the umbrella.
