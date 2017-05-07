@@ -7,9 +7,9 @@ Fortunately, Jack liked it.
 
 Unfortunately, Jill didn't.
 
-Fortunately, Jack has super power.
+Fortunately, Jack has a super power.
 
-Unfortunately, Jill can not use the power.
+Unfortunately, Jill does not have a super power.
 
 Fortunately, Jack moved quickly.
 
